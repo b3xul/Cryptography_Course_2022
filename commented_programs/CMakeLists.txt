@@ -1,0 +1,30 @@
+cmake_minimum_required(VERSION 3.20)
+project(cryptography_03lpyov_exercises C)
+
+set(CMAKE_C_STANDARD 11)
+
+link_libraries(crypto)
+
+#[[add_executable(1_bignum_live
+        AY2021/OpenSSL/asymmetric/1_bignum_live.c)
+add_executable(2_bignum-in-out_live AY2021/OpenSSL/asymmetric/2_bignum-in-out_live.c)
+add_executable(3_primes_live AY2021/OpenSSL/asymmetric/3_primes_live.c)
+add_executable(4_bignum_op_live AY2021/OpenSSL/asymmetric/4_bignum_op_live.c)
+add_executable(5_rsa_keygen_live AY2021/OpenSSL/asymmetric/5_rsa_keygen_live.c)]]
+add_executable(1_enc_aes_live AY2021/OpenSSL/symmetric/1_enc_aes_live.c)
+add_executable(1_random_live AY2021/OpenSSL/symmetric/1_random_live.c)
+add_executable(2_genkey_and_save_live AY2021/OpenSSL/symmetric/2_genkey_and_save_live.c)
+add_executable(3_hash_SHA1_live AY2021/OpenSSL/symmetric/3_hash_SHA1_live.c)
+add_executable(4_enc_aes+checks AY2021/OpenSSL/symmetric/4_enc_aes+checks.c)
+add_executable(5_hmac_sha512 AY2021/OpenSSL/symmetric/5_hmac_sha512.c)
+add_executable(enc_aes_split AY2021/OpenSSL/symmetric/enc_aes_split.c)
+add_executable(bignum AY2021/OpenSSL/bignum/bignum.c)
+add_executable(bignum_in-out AY2021/OpenSSL/bignum/bignum_in-out.c)
+add_executable(bignum_op AY2021/OpenSSL/bignum/bignum_op.c)
+add_executable(primes AY2021/OpenSSL/bignum/primes.c)
+add_executable(rsa_key_gen AY2021/OpenSSL/asymmetric/rsa_key_gen.c)
+add_executable(rsa_operations AY2021/OpenSSL/asymmetric/rsa_operations.c)
+add_executable(rsa_sign_verify AY2021/OpenSSL/asymmetric/rsa_sign_verify.c)
+add_executable(custom_keyed_digest AY2021/OpenSSL/Exercises/custom_keyed_digest.c)
+add_executable(hmac_and_encrypt AY2021/OpenSSL/Exercises/hmac_and_encrypt.c)
+add_executable(noncense AY2021/OpenSSL/Exercises/noncense.c)

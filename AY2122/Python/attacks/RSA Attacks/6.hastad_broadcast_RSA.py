@@ -51,7 +51,7 @@ if __name__ == '__main__':
     # m_int
 
     # n1
-    g, u1, v1 = egcd(n2*n3,n1)  # N / n1
+    g, u1, v1 = egcd(n2*n3,n1)  # N // n1
     g, u2, v2 = egcd(n1 * n3, n2) #n2
     g, u3, v3 = egcd(n1 * n2, n3)  # n2
 

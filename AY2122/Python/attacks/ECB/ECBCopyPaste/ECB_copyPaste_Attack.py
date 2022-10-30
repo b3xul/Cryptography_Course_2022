@@ -9,7 +9,7 @@ os.environ['PWNLIB_SILENT'] = 'True'
 
 from pwn import *
 
-from attacks.ECB.ECBCopyPaste.ECB_CopyPaste_server_genCookie_service import profile_for,encode_profile
+from ECB_CopyPaste_server_genCookie_service import profile_for,encode_profile
 
 if __name__ == '__main__':
     server_gencookies = remote(HOST,PORT)

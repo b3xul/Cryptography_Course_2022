@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cryptography_03lpyov_exercises"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="custom_keyed_digest">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/custom_keyed_digest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 custom_keyed_digest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="custom_keyed_digest/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/custom_keyed_digest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 custom_keyed_digest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_sign_verify">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_sign_verify" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_sign_verify"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_sign_verify/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_sign_verify" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_sign_verify/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_operations">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_operations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_operations"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_operations/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_operations" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_operations/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_key_gen">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_key_gen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_key_gen"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rsa_key_gen/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/rsa_key_gen" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rsa_key_gen/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_hash_SHA1_live">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/3_hash_SHA1_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_hash_SHA1_live"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3_hash_SHA1_live/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/3_hash_SHA1_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 3_hash_SHA1_live/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hmac_and_encrypt">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/hmac_and_encrypt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 hmac_and_encrypt"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hmac_and_encrypt/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/hmac_and_encrypt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 hmac_and_encrypt/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="primes">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/primes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 primes"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="primes/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/primes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 primes/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_random_live">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/1_random_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_random_live"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_random_live/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/1_random_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_random_live/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="noncense">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/noncense" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 noncense"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="noncense/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/noncense" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 noncense/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_enc_aes_live">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/1_enc_aes_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_enc_aes_live"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1_enc_aes_live/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/1_enc_aes_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 1_enc_aes_live/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_genkey_and_save_live">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/2_genkey_and_save_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_genkey_and_save_live"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2_genkey_and_save_live/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/2_genkey_and_save_live" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 2_genkey_and_save_live/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_enc_aes+checks">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/4_enc_aes+checks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_enc_aes+checks"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="4_enc_aes+checks/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/4_enc_aes+checks" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 4_enc_aes+checks/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="enc_aes_split">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/enc_aes_split" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 enc_aes_split"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="enc_aes_split/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/enc_aes_split" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 enc_aes_split/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_hmac_sha512">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/5_hmac_sha512" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_hmac_sha512"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="5_hmac_sha512/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/5_hmac_sha512" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 5_hmac_sha512/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum_in-out">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum_in-out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum_in-out"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum_in-out/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum_in-out" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum_in-out/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum_op">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum_op" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum_op"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bignum_op/fast">
+				<Option output="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/bignum_op" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 bignum_op/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/Exercises/custom_keyed_digest.c">
+			<Option target="custom_keyed_digest"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/Exercises/hmac_and_encrypt.c">
+			<Option target="hmac_and_encrypt"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/Exercises/noncense.c">
+			<Option target="noncense"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/asymmetric/rsa_key_gen.c">
+			<Option target="rsa_key_gen"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/asymmetric/rsa_operations.c">
+			<Option target="rsa_operations"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/asymmetric/rsa_sign_verify.c">
+			<Option target="rsa_sign_verify"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/bignum/bignum.c">
+			<Option target="bignum"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/bignum/bignum_in-out.c">
+			<Option target="bignum_in-out"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/bignum/bignum_op.c">
+			<Option target="bignum_op"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/bignum/primes.c">
+			<Option target="primes"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/1_enc_aes_live.c">
+			<Option target="1_enc_aes_live"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/1_random_live.c">
+			<Option target="1_random_live"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/2_genkey_and_save_live.c">
+			<Option target="2_genkey_and_save_live"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/3_hash_SHA1_live.c">
+			<Option target="3_hash_SHA1_live"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/4_enc_aes+checks.c">
+			<Option target="4_enc_aes+checks"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/5_hmac_sha512.c">
+			<Option target="5_hmac_sha512"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/enc_aes_split.c">
+			<Option target="enc_aes_split"/>
+		</Unit>
+		<Unit filename="/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

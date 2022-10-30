@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/2_genkey_and_save_live.dir/AY2021/OpenSSL/symmetric/2_genkey_and_save_live.c.o -o 2_genkey_and_save_live  -lcrypto 

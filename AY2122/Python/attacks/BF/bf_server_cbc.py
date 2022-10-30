@@ -31,7 +31,7 @@ while 1:
 
         # receives the username from the client
         username = conn.recv(1024)
-        cookie = b'username='+username+b',admin=0'
+        cookie = b'username='+username+b',admin=false'
         print(cookie)
 
         # encrypt cookie info
@@ -55,7 +55,7 @@ while 1:
 
         # only the administrator will have the admin field set to 1
         # when they show back, we recognize them
-        if b'admin=1' in decrypted:
+        if b'admin=true' in decrypted:
             print("You are an admin!")
             conn.send("You are an admin!".encode())
         else:

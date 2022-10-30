@@ -24,16 +24,16 @@ class SHA1:
     #     #     0xC3D2E1F0
     #     #     ]
     #
-         self.__H = [None] * 5
-         for i in range(5):
-             self.__H[i] = int("0x" + sniffed_dgst[i * 8:(i + 1) * 8],16)
-         print(self.__H)
+         # self.__H = [None] * 5
+         # for i in range(5):
+         #     self.__H[i] = int("0x" + sniffed_dgst[i * 8:(i + 1) * 8],16)
+         # print(self.__H)
 
-    #def __init__(self,s):
-    #    self.__H = [None] * 5
-    #    for i in range(5):
-    #        self.__H[i] = int("0x" + sniffed_dgst[i * 8:(i + 1) * 8], 16)
-    #    print(self.__H)
+    def __init__(self,s):
+       self.__H = [None] * 5
+       for i in range(5):
+           self.__H[i] = int("0x" + sniffed_dgst[i * 8:(i + 1) * 8], 16)
+       print(self.__H)
 
 
     def __str__(self):
@@ -237,6 +237,7 @@ def main():
 
 
 ########################
+    # The hash starting from the hexdigest of secret+message, with the additional part is correct, as we can see from the hash of padded message + additional part
     hasher = SHA1(h.hexdigest())
     hasher.update(to_add)
     print(hasher.hexdigest())

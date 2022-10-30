@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/1_random_live.dir/AY2021/OpenSSL/symmetric/1_random_live.c.o -o 1_random_live  -lcrypto 

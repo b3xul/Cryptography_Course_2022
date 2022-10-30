@@ -22,7 +22,7 @@ int main()
 
 
 
-    
+
 
     unsigned char key[] = "0123456789ABCDEF";
     unsigned char iv[]  = "1111111111111111";
@@ -30,11 +30,12 @@ int main()
 
     EVP_CIPHER_CTX *ctx = EVP_CIPHER_CTX_new();
     EVP_CipherInit(ctx,EVP_aes_128_cbc(), key, iv, DECRYPT);
-    
+
     // convert hexstring into bytes
     int ciphertext_len = strlen(ciphertext_hex)/2;
     unsigned char ciphertext_binary[ciphertext_len];
     for(int i = 0; i < ciphertext_len;i++){
+      /* N.B. %hhx means unsigned char, which is typically uint8_t, which is 1 Byte
         sscanf(&ciphertext_hex[2*i],"%2hhx", &ciphertext_binary[i]);
     }
     for(int i = 0; i < ciphertext_len; i++)

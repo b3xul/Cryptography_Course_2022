@@ -18,7 +18,7 @@ if __name__ == '__main__':
     # ciphertext = server.recv(1024)
     # server.close()
     # print(ciphertext.hex())
-    # print(len(ciphertext))
+    # print(len(ciphertext)) 64
 
     # message = """Here is the msg:{0} - and the sec:{1}""".format(input0, ecb_oracle_secret)
     prefix = b'Here is the msg:'
@@ -61,6 +61,10 @@ if __name__ == '__main__':
             server = remote(HOST, PORT)
             server.send(message)
             ciphertext = server.recv(1024)
+            print(ciphertext[:16])
+            print(ciphertext[16:32])
+            print(ciphertext[32:48])
+            print(ciphertext[48:64])
             server.close()
 
             if ciphertext[16:32] == ciphertext[48:64]:

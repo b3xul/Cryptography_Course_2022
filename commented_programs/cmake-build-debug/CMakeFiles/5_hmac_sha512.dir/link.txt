@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/5_hmac_sha512.dir/AY2021/OpenSSL/symmetric/5_hmac_sha512.c.o -o 5_hmac_sha512  -lcrypto 

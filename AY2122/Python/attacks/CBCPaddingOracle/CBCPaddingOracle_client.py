@@ -59,20 +59,20 @@ def guess_byte(p,c,ciphertext,block_size):
         ca += ciphertext[:current_byte_index]
         ca += i.to_bytes(1,byteorder='big')
 
-        # print(ca)
+        print(ca)
         for x in p:
             ca += (x ^ padding_value).to_bytes(1,byteorder='big')
-        # print(ca)
+        print(ca)
         ca += get_nth_block(ciphertext,n-1,block_size)
-        # print(ca)
-        # print("          "+str(ciphertext))
+        print(ca)
+        print("          "+str(ciphertext))
 
         server = remote(HOST, PORT)
         server.send(iv)
         server.send(ca)
         response = server.recv(1024)
 
-        # print(response)
+        print(response)
 
         if response == b'OK':
             print("found",end=' ')

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/hmac_and_encrypt.dir/AY2021/OpenSSL/Exercises/hmac_and_encrypt.c.o -o hmac_and_encrypt  -lcrypto 

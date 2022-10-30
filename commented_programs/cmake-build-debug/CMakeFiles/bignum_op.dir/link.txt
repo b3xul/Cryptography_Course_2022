@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/bignum_op.dir/AY2021/OpenSSL/bignum/bignum_op.c.o -o bignum_op  -lcrypto 

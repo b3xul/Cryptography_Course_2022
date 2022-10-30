@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/symmetric/2_genkey_and_save_live.c
+stdio.h
+-
+/usr/include/stdlib.h
+-
+openssl/evp.h
+-
+openssl/rand.h
+-
+
+/usr/include/stdlib.h
+bits/libc-header-start.h
+-
+stddef.h
+-
+bits/waitflags.h
+-
+bits/waitstatus.h
+-
+bits/floatn.h
+-
+bits/types/locale_t.h
+-
+sys/types.h
+-
+alloca.h
+-
+bits/stdlib-bsearch.h
+-
+bits/stdlib-float.h
+-
+bits/stdlib.h
+-
+bits/stdlib-ldbl.h
+-
+

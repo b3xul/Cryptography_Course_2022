@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/3_hash_SHA1_live.dir/AY2021/OpenSSL/symmetric/3_hash_SHA1_live.c.o -o 3_hash_SHA1_live  -lcrypto 

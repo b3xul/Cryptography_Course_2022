@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/26158F5879578F52/Università/Magistrale/Cryptography/Attacks/cryptography-exercises/my_programs/AY2021/OpenSSL/asymmetric/rsa_sign_verify.c
+stdio.h
+-
+openssl/rsa.h
+-
+openssl/err.h
+-
+openssl/evp.h
+-
+openssl/pem.h
+-
+

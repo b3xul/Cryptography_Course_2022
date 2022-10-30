@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rsa_key_gen.dir/AY2021/OpenSSL/asymmetric/rsa_key_gen.c.o -o rsa_key_gen  -lcrypto 

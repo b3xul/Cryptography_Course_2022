@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/primes.dir/AY2021/OpenSSL/bignum/primes.c.o -o primes  -lcrypto 

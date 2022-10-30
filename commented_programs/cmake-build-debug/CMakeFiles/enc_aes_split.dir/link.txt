@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/enc_aes_split.dir/AY2021/OpenSSL/symmetric/enc_aes_split.c.o -o enc_aes_split  -lcrypto 

@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # d = rsa_keypair.d
     n = rsa_keypair.n
 
-    m = b'This message needs to be encryptedcccccccccccccccccccccccccccccccddddddddddddddddddddddddddddddddddddddddddddddddddddd'
+    m = b'This message needs to be encrypted'
     m_int = int.from_bytes(m,byteorder='big')
 
     c = pow(m_int,e,n)
@@ -26,5 +26,6 @@ if __name__ == '__main__':
     print(decrypted_int)
     print(decrypted_int.to_bytes(decrypted_int.bit_length() // 8 +1, byteorder='big').decode())
 
+# This is imprecise!!
     dec = pow(c, 1/3)
     print(dec)

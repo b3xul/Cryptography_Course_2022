@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rsa_sign_verify.dir/AY2021/OpenSSL/asymmetric/rsa_sign_verify.c.o -o rsa_sign_verify  -lcrypto 

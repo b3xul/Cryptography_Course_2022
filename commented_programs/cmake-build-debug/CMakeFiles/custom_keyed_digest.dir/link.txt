@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/custom_keyed_digest.dir/AY2021/OpenSSL/Exercises/custom_keyed_digest.c.o -o custom_keyed_digest  -lcrypto 

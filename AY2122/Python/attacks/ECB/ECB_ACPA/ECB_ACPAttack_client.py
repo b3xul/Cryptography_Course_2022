@@ -11,7 +11,10 @@ from Crypto.Cipher import AES
 from pwn import *
 import string
 
-from mysecrets import HOST,PORT
+os.environ['PWNLIB_NOTERM'] = 'True'  # Configuration patch to allow pwntools to be run inside of an IDE
+os.environ['PWNLIB_SILENT'] = 'True'
+
+from myconfig import HOST,PORT
 
 SECRET_LEN = 16
 

@@ -9,11 +9,11 @@ int main()
   BN_CTX *ctx=BN_CTX_new();
 
   // print after init
-  BN_print_fp(stdout,b3);
+  BN_print_fp(stdout,b3); // 0
   printf("\n");
 
   // roughly speaking: word functions mean -> unsigned long
-  BN_set_word(b1,354);
+  BN_set_word(b1,354); //0x162
   BN_print_fp(stdout,b1);
   printf("\n");
 

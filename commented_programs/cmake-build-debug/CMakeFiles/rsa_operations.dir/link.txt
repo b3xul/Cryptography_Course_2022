@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rsa_operations.dir/AY2021/OpenSSL/asymmetric/rsa_operations.c.o -o rsa_operations  -lcrypto 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/noncense.dir/AY2021/OpenSSL/Exercises/noncense.c.o -o noncense  -lcrypto 

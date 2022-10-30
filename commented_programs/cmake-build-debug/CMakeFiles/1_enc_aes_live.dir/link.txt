@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/1_enc_aes_live.dir/AY2021/OpenSSL/symmetric/1_enc_aes_live.c.o -o 1_enc_aes_live  -lcrypto 
